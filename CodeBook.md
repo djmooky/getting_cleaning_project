@@ -17,9 +17,9 @@ Perform some renaming of the feature names for clarity
 Copy the data to a new variable and perform the writing of the data to outputData.txt
 
 # Translation of activity numeric coding
-* 1 WALKING
-* 2 WALKING_UPSTAIRS
-* 3 WALKING_DOWNSTAIRS
-* 4 SITTING
-* 5 STANDING
-* 6 LAYING
+* 1 = WALKING
+* 2 = WALKING_UPSTAIRS
+* 3 = WALKING_DOWNSTAIRS
+* 4 = SITTING
+* 5 = STANDING
+* 6 = LAYING
