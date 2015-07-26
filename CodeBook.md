@@ -1,8 +1,8 @@
 # steps
-Download and unzip data set
-Read in the activity test and training data
-Read in the subject test and training data
-Read in the feature test and training data
+Download and unzip data set.
+Read in the activity test and training data.
+Read in the subject test and training data.
+Read in the feature test and training data.
 
 Use rbind to combine the test and training data for each subsection, activity, subject and feature.
 Set the name for the variables in the subject data to "subject".
@@ -14,10 +14,12 @@ Use this created list to filter out the unwanted features.
 
 Perform some renaming of the feature names for clarity
 
+Copy the data to a new variable and perform the writing of the data to outputData.txt
+
 # Translation of activity numeric coding
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+* 1 WALKING
+* 2 WALKING_UPSTAIRS
+* 3 WALKING_DOWNSTAIRS
+* 4 SITTING
+* 5 STANDING
+* 6 LAYING
